@@ -1,0 +1,4 @@
+@import './base.css';
+@import "tailwindcss";
+
+.container { max-width: 100%;}
